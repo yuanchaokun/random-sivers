@@ -25,9 +25,3 @@ I use the Pomodoro Technique for time management. Based on the Fogg Behavior Mod
 - HTML
 - JavaScript
 - Python (for generating the link array / 用于生成链接数组)
-
-## Local Usage / 本地使用
-
-1. Clone the repository / 克隆仓库:
-```bash
-git clone https://github.com/你的用户名/random-sivers.git
